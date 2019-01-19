@@ -3,7 +3,7 @@
 namespace Pacuna\Schemas;
 
 use DB;
-use Artisan;
+use Illuminate\Support\Facades\Artisan;
 use Schema;
 use Config;
 
